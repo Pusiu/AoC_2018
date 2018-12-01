@@ -1,0 +1,11 @@
+D:\Gracjan\aoc_2018\bin\Debug\netcoreapp2.0\AoC_2018.deps.json
+D:\Gracjan\aoc_2018\bin\Debug\netcoreapp2.0\AoC_2018.runtimeconfig.json
+D:\Gracjan\aoc_2018\bin\Debug\netcoreapp2.0\AoC_2018.runtimeconfig.dev.json
+D:\Gracjan\aoc_2018\bin\Debug\netcoreapp2.0\AoC_2018.dll
+D:\Gracjan\aoc_2018\bin\Debug\netcoreapp2.0\AoC_2018.pdb
+D:\Gracjan\aoc_2018\obj\Debug\netcoreapp2.0\AoC_2018.csprojResolveAssemblyReference.cache
+D:\Gracjan\aoc_2018\obj\Debug\netcoreapp2.0\AoC_2018.csproj.CoreCompileInputs.cache
+D:\Gracjan\aoc_2018\obj\Debug\netcoreapp2.0\AoC_2018.AssemblyInfoInputs.cache
+D:\Gracjan\aoc_2018\obj\Debug\netcoreapp2.0\AoC_2018.AssemblyInfo.cs
+D:\Gracjan\aoc_2018\obj\Debug\netcoreapp2.0\AoC_2018.dll
+D:\Gracjan\aoc_2018\obj\Debug\netcoreapp2.0\AoC_2018.pdb

@@ -13,6 +13,7 @@ namespace AoC_2018
 			days.Add(new Day3());
 			days.Add(new Day4());
 			days.Add(new Day5());
+            days.Add(new Day7());
 
 			days[days.Count-1].Do();
 			Console.ReadLine();        
